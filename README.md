@@ -1,4 +1,4 @@
-# flutter_application_1
+# payment_app
 
 A new Flutter project.
 
